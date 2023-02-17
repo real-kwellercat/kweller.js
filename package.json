@@ -1,6 +1,6 @@
 {
   "name": "kweller.js",
-  "version": "1.0.2",
+  "version": "1.0.2-republish",
   "description": "A Node.JS package for making simple math easier.",
   "main": "kweller.js",
   "scripts": {
