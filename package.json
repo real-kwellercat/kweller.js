@@ -1,0 +1,11 @@
+{
+  "name": "kweller.js",
+  "version": "1.0.1",
+  "description": "A Node.JS package for making simple math easier.",
+  "main": "kweller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "real-kwellercat (Lucas Rausch)",
+  "license": "MIT"
+}
